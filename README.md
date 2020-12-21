@@ -14,4 +14,4 @@ RomeBot medium has :
 - [ ] Command and events handler with class
 - [ ] Constructor
 
-Bot made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)
+Made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)
